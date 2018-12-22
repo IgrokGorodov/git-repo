@@ -1,5 +1,6 @@
-return back string 1;
-print "hello chaps!";
-ha-ha-ha;
-123;
-hello from Master;
+100
+return back string 1
+print "hello chaps!
+ha-ha-ha
+123
+hello from Master
