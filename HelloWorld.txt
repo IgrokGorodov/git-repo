@@ -1,5 +1,5 @@
-return back string 1
-print "hello chaps!"
-ha-ha-ha
-123
-hello from Master
+return back string 1;
+print "hello chaps!";
+ha-ha-ha;
+123;
+hello from Master;
