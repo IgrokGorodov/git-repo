@@ -1,8 +1,8 @@
-return back string 1;
-print "hello chaps!";
-ha-ha-ha;
-123;
-hello from Master;
+return back string 1
+print "hello chaps!
+ha-ha-ha
+123
+hello from Master
 
-advnced hello to all;
-let's add sth else;
+advnced hello to all
+let's add sth else
